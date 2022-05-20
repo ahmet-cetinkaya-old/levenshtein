@@ -1,0 +1,14 @@
+C:\Users\ahmetcetinkaya\source\repos\Levenshtein\Levenshtein\bin\Debug\Levenshtein.exe.config
+C:\Users\ahmetcetinkaya\source\repos\Levenshtein\Levenshtein\bin\Debug\Levenshtein.exe
+C:\Users\ahmetcetinkaya\source\repos\Levenshtein\Levenshtein\bin\Debug\Levenshtein.pdb
+C:\Users\ahmetcetinkaya\source\repos\Levenshtein\Levenshtein\obj\Debug\Levenshtein.csprojAssemblyReference.cache
+C:\Users\ahmetcetinkaya\source\repos\Levenshtein\Levenshtein\obj\Debug\MainWindow.g.cs
+C:\Users\ahmetcetinkaya\source\repos\Levenshtein\Levenshtein\obj\Debug\App.g.cs
+C:\Users\ahmetcetinkaya\source\repos\Levenshtein\Levenshtein\obj\Debug\Levenshtein_MarkupCompile.cache
+C:\Users\ahmetcetinkaya\source\repos\Levenshtein\Levenshtein\obj\Debug\Levenshtein_MarkupCompile.lref
+C:\Users\ahmetcetinkaya\source\repos\Levenshtein\Levenshtein\obj\Debug\MainWindow.baml
+C:\Users\ahmetcetinkaya\source\repos\Levenshtein\Levenshtein\obj\Debug\Levenshtein.g.resources
+C:\Users\ahmetcetinkaya\source\repos\Levenshtein\Levenshtein\obj\Debug\Levenshtein.Properties.Resources.resources
+C:\Users\ahmetcetinkaya\source\repos\Levenshtein\Levenshtein\obj\Debug\Levenshtein.csproj.GenerateResource.cache
+C:\Users\ahmetcetinkaya\source\repos\Levenshtein\Levenshtein\obj\Debug\Levenshtein.exe
+C:\Users\ahmetcetinkaya\source\repos\Levenshtein\Levenshtein\obj\Debug\Levenshtein.pdb
